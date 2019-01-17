@@ -1,0 +1,42 @@
+{
+  "anuncios": [
+    {
+      "nombre": "Bicicleta",
+      "venta": true,
+      "precio": 23015,
+      "foto": "bici.jpg",
+      "tags": [ "lifestyle", "motor"]
+    },
+    {
+      "nombre": "iPhone 3GS",
+      "venta": false,
+      "precio": 5000,
+      "foto": "iphone.png",
+      "tags": [ "lifestyle", "mobile"]
+    }
+    ,
+    {
+      "nombre": "Xiamoi A1",
+      "venta": false,
+      "precio": 2000,
+      "foto": "iphone.png",
+      "tags": [ "lifestyle", "mobile"]
+    }
+    ,
+    {
+      "nombre": "AspiraPower 3000",
+      "venta": false,
+      "precio": 10000,
+      "foto": "iphone.png",
+      "tags": [ "lifestyle", "work"]
+    }
+    ,
+    {
+      "nombre": "TV LED",
+      "venta": false,
+      "precio": 60000,
+      "foto": "iphone.png",
+      "tags": [ "lifestyle", "work"]
+    }
+  ]
+}
